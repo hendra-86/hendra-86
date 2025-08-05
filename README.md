@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Quote
-![](https://id.pinterest.com/pin/89649848827373452/)
+![](https://i.pinimg.com/736x/4f/ed/db/4feddbc4d77f5dbf610dd104684e041f.jpg)
+
+###
+---
+[![](https://visitcount.itsvg.in/api?id=hendra-86&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hendra-86/hendra-86/output/pacman-contribution-graph-dark.svg">
